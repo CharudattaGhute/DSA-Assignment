@@ -1,4 +1,4 @@
 # DSA-Assignment
 
 ## stack - (LIFO)
-## Queu - (FIFO)
+## Qeue - (FIFO)
